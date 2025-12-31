@@ -21,7 +21,7 @@ UI Overhaul: High-contrast gray list, bold text, ruler scale, and unified scroll
 Sequence Editing: Drag-and-drop reordering, column/row deletion, and undo/redo (Ctrl+Z).
 Primer Design: Strict biological parameters, paired search, visual highlighting, and CSV export.
 Phylogeny: FastTree/Neighbor-Joining integration with Tree plotting and Newick export.
-Performance: Optimized rendering (no "question marks") and fast search.
+Performance: Optimized rendering and fast search.
 
 📄 License
 This project is licensed under the GNU General Public License v3.0 (GPLv3).
